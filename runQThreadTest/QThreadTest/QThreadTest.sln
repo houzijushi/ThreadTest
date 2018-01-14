@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QThreadTest", "QThreadTest\QThreadTest.vcxproj", "{1EC61A75-4A5D-4069-850B-E14EB328287D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EC61A75-4A5D-4069-850B-E14EB328287D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1EC61A75-4A5D-4069-850B-E14EB328287D}.Debug|Win32.Build.0 = Debug|Win32
+		{1EC61A75-4A5D-4069-850B-E14EB328287D}.Release|Win32.ActiveCfg = Release|Win32
+		{1EC61A75-4A5D-4069-850B-E14EB328287D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
